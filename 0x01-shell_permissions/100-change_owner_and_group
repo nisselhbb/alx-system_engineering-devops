@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown chgrp vincent staff
+chown --recursive vincent:staff .
