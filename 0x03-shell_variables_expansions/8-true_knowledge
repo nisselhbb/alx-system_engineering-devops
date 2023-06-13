@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((+128))) | sort TRUEKNOWLEDGE
+echo RESULT="$((number+128))" | sort TRUEKNOWLEDGE
