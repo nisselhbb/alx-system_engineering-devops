@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($NUM.$NUM))
+printf "%.2\_n" $NUM
