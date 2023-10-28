@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#blah
+process="7-highlander"
+pkill -f $process
